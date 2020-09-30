@@ -1,4 +1,5 @@
 const { app, BrowserWindow } = require('electron')
+const fs = require('fs');
 
 function createWindow () {
   // Create the browser window.
@@ -9,6 +10,8 @@ function createWindow () {
       nodeIntegration: true
     }
   })
+
+ // C:\Program Files (x86)\Steam\steamapps\common\Assetto Corsa Competizione
 
   // and load the index.html of the app.
   win.loadFile('index.html')
