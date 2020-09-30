@@ -1,2 +1,2 @@
 # ACCServerTool
-GUI to setup Assetto Corsa Compompetizione server variables
+GUI to setup Assetto Corsa Competizione server variables
