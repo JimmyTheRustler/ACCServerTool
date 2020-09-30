@@ -1,0 +1,24 @@
+{
+  "name": "accservertool",
+  "version": "1.0.0",
+  "description": "GUI to setup Assetto Corsa Competizione server variables",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^10.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JimmyTheRustler/ACCServerTool.git"
+  },
+  "author": "Jim O'Brien",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JimmyTheRustler/ACCServerTool/issues"
+  },
+  "homepage": "https://github.com/JimmyTheRustler/ACCServerTool#readme"
+}
